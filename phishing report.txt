@@ -1,0 +1,42 @@
+Phishing Email Report
+
+Subject: Windows Error Report – Unusual sign-in activity
+Sender Email Address: microsoft_team_mcpv_msteam2@outlook.com
+Date Received: Wednesday, 8:54 AM
+
+1. Summary of the Email Content
+This email pretends to be a warning from Microsoft, claiming there was suspicious sign-in activity on your account. It mentions a foreign IP address from Lagos, Nigeria, supposedly trying to access your system. The message urges you to click on a “Review recent activity” button to investigate the issue. It also includes a fake reference number and a phone number for supposed support, all wrapped in what looks like an official Microsoft message.
+
+2. Signs That This Is a Phishing Email
+There are several red flags that suggest this message is a phishing attempt:
+
+Suspicious Email Address: The message comes from an Outlook.com email, which is not an official Microsoft domain. A real security alert from Microsoft would come from a legitimate domain like @microsoft.com.
+
+Panic-Inducing Language: The email tries to scare you into taking quick action by warning about unauthorized access and potential license issues.
+
+Poor Grammar and Wording: There are noticeable mistakes in the language used—phrases like “someone from foreign IP Address was trying to make a prohibited connection” sound awkward and unprofessional.
+
+Fake Contact Details: The phone number listed (1-800-816-0830) doesn’t match any known Microsoft support lines. This is often used in scams to lure victims into giving up sensitive information.
+
+Unverified Links: The “Review recent activity” button is designed to get you to click without knowing where it actually leads. This is a common trick used to send users to phishing websites or malware downloads.
+
+False Sense of Legitimacy: The email includes a fake reference number (AZ-1190) to make it look official, but this is just a tactic to seem more credible.
+
+Lack of Personalization: The message does not use your name or any personal details, which is typical of mass phishing attempts.
+
+Scare Tactics: The overall tone is urgent and fear-based, hoping to rush you into making a mistake.
+
+3. What You Should Do
+Do not click on any links or buttons in the email.
+
+Do not call the phone number provided.
+
+Report the email to your IT or security team, or to your email provider.
+
+Mark it as phishing or junk using your email client's tools.
+
+If you’ve already interacted with the message, change your passwords immediately and run a full virus and malware scan on your device.
+
+4. Final Verdict
+This is a phishing attempt designed to trick you into giving away personal information or infecting your device with malware. Although it tries to look like a legitimate Microsoft alert, the details and overall tone reveal it to be a scam. Stay cautious and always verify before clicking anything suspicious.
+
